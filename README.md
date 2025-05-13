@@ -12,8 +12,7 @@
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhavesh-bhuva-302791119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavesh-bhuva-302791119/" height="30" width="40" /></a>
-<a href="https://medium.com/@bhaveshbhuva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhaveshbhuva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aleksey-perelyaev-4478752b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aleksey-perelyaev-4478752b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Interesting activity which I love while coding:</h3>
@@ -23,8 +22,6 @@
 - 📝 Finding glitchy code using **Reverse Engineering**
 
 - 🎉 Assesment & Improvement **Core web vitals metric(s)**
-
-- 🎊 QA Testing **Selenium**
 
 - 🧠 Creative solution by **innovative Ideas**
 
